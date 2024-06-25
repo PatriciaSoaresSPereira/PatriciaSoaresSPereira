@@ -1,6 +1,6 @@
 
 
-  # Olá, Eu sou Patrícia Soares!
+  # Olá,Eu sou Patrícia Soares! <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
 
 - 👀 I’m interested in ciências de dados e analise .
