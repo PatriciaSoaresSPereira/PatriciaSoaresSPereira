@@ -20,8 +20,8 @@
  
 </div>
 
-                  https://picrew.me/en/image_maker/2397402/complete?cd=tJ7GxT5DMD
-  
+                                                                        ![download20240602152045](https://github.com/PatriciaSoaresSPereira/PatriciaSoaresSPereira/assets/136263539/9fb47c08-0933-4057-adc2-47a86d41a345)
+
  
 <div> 
  
