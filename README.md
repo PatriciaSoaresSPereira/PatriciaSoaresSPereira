@@ -1,3 +1,8 @@
+
+
+
+
+
 - 👋 Hi, I’m @PatriciaSoaresSPereira
 - 👀 I’m interested in ciências de dados e analise .
 - 🌱 I’m currently learning Pyhton , Machine learning, Deep Learning , Engenharia de Dados e Engenharia de Software 
