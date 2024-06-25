@@ -1,5 +1,5 @@
 
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fpt.linkedin.com%2Fpulse%2Fo-que-%25C3%25A9-ci%25C3%25AAncia-de-dados-e-como-funciona-alexander-alves%3Ftrk%3Dpublic_post&psig=AOvVaw1K2lC0I7hjrPsM8zzBGiGt&ust=1719412278497000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNCn2IT89oYDFQAAAAAdAAAAABAT
+![image](https://github.com/PatriciaSoaresSPereira/PatriciaSoaresSPereira/assets/136263539/7d6372af-b438-4844-9df0-baa4f8dda761)
 
 
 
