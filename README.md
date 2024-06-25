@@ -14,8 +14,7 @@
 
                                                                                                       
 
-
-         ![image](https://github.com/PatriciaSoaresSPereira/PatriciaSoaresSPereira/assets/136263539/1a95257c-826c-4190-b95a-1e71d1714140)
+ ![image](https://github.com/PatriciaSoaresSPereira/PatriciaSoaresSPereira/assets/136263539/1a95257c-826c-4190-b95a-1e71d1714140)
 
 
  
