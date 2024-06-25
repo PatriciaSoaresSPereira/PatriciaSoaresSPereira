@@ -18,6 +18,8 @@
   
 <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
+![image](https://github.com/PatriciaSoaresSPereira/PatriciaSoaresSPereira/assets/136263539/1a95257c-826c-4190-b95a-1e71d1714140)
+
 
  
 <div> 
@@ -29,7 +31,7 @@
   
 </div>
 
-                                                                                                                                          ![image](https://github.com/PatriciaSoaresSPereira/PatriciaSoaresSPereira/assets/136263539/1a95257c-826c-4190-b95a-1e71d1714140)
+
 
 
 
