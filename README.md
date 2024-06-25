@@ -18,9 +18,7 @@
   
 <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
  
-</div>
-
-                                                                        ![download20240602152045](https://github.com/PatriciaSoaresSPereira/PatriciaSoaresSPereira/assets/136263539/9fb47c08-0933-4057-adc2-47a86d41a345)
+</div>This image was created with Picrew’s “これおかわです(仮)“!!  https://picrew.me/share?cd=tJ7GxT5DMD #Picrew #これおかわです仮
 
  
 <div> 
