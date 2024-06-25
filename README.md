@@ -4,7 +4,7 @@
 
 
 
-  # Olá,Eu sou Patrícia Soares! 
+  # Olá,Eu sou Patrícia Soares!  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
 - 👀 I’m interested in ciências de dados e analise .
 - 🌱 I’m currently learning Pyhton , Machine learning, Deep Learning , Engenharia de Dados e Engenharia de Software 
@@ -12,13 +12,10 @@
 - 📫 How to reach com o meu email patsoares28@gmail.com
 - 😄 Pronouns: Ela 
 
-                                                                                                         
+                                                                                                      
 
-<div style="display: inline_block"><br>
-  
-<img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
-![image](https://github.com/PatriciaSoaresSPereira/PatriciaSoaresSPereira/assets/136263539/1a95257c-826c-4190-b95a-1e71d1714140)
+         ![image](https://github.com/PatriciaSoaresSPereira/PatriciaSoaresSPereira/assets/136263539/1a95257c-826c-4190-b95a-1e71d1714140)
 
 
  
