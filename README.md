@@ -12,8 +12,8 @@
 - 📫 How to reach com o meu email patsoares28@gmail.com
 - 😄 Pronouns: Ela 
 
+                                                                                                             ![image](https://github.com/PatriciaSoaresSPereira/PatriciaSoaresSPereira/assets/136263539/67a96b58-6808-4816-82af-e68dfcfaf7dc)
 
- https://picrew.me/share?cd=tJ7GxT5DMD #Picrew #これおかわです仮
 
 <div style="display: inline_block"><br>
   
